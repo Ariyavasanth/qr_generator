@@ -6,7 +6,7 @@ This is a QR code generator built using **React.js** and **Tailwind CSS**. It al
 
 ## Live Link
 
-You can check out the live demo of the project here: [Live QR Code Generator](https://your-live-link.com)
+You can check out the live demo of the project here: [Live QR Code Generator](https://qr-generator-aj.vercel.app/)
 
 ## Features
 
